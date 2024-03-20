@@ -1,0 +1,30 @@
+{
+  "name": "@solidstate/spec",
+  "version": "0.0.6",
+  "author": "Nick Barry",
+  "license": "MIT",
+  "description": "Portable specifications for SolidState contracts",
+  "keywords": [
+    "solidity",
+    "smart-contracts",
+    "ethereum",
+    "ether",
+    "eth",
+    "cryptocurrency",
+    "crypto",
+    "wow",
+    "library",
+    "hardhat",
+    "buidler"
+  ],
+  "repository": "github:solidstate-network/solidstate-solidity",
+  "dependencies": {
+    "@solidstate/library": "^0.0.6"
+  },
+  "files": [
+    "/**/*.behavior.js"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
